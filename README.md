@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project implements a multithreaded ticket booking system using
-POSIX threads (pthreads), semaphores, and mutex locks in C.
+ threads (pthreads), semaphores, and mutex locks in C.
 
 The system simulates multiple members attempting to book tickets
 simultaneously.
@@ -19,7 +19,7 @@ resource management.
 ## 🎯 Objectives
 
 - Understand multithreading in C.
-- Implement POSIX threads using pthreads.
+- Implement  threads using pthreads.
 - Use semaphores to control concurrent access.
 - Use mutex locks to protect shared resources.
 - Prevent race conditions during ticket booking.
@@ -29,8 +29,8 @@ resource management.
 
 - Programming Language: C
 - Operating System: Linux
-- POSIX Threads (pthreads)
-- POSIX Semaphores
+-  Threads (pthreads)
+-  Semaphores
 - Mutex Locks
 - GCC Compiler
 
